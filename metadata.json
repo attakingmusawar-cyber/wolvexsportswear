@@ -1,0 +1,6 @@
+{
+  "name": "WOLVEX Sportswear — Built to Dominate",
+  "description": "Premium custom sportswear manufacturing brand. Engineered for performance, designed for team identity. Basketball kits, tracksuits, gym wear, and athletic apparel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
